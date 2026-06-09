@@ -1,0 +1,4 @@
+{
+  "webhookUrl": "https://open.feishu.cn/open-apis/bot/v2/hook/你的webhook-id",
+  "secret": "SEC你的密钥"
+}
